@@ -3,7 +3,7 @@
 * calc() function
 *   height:calc(100vh - 30px);
 */
-
+*{}
 #outline{
     margin:100px auto;
     padding:10px;
